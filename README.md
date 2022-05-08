@@ -1,5 +1,5 @@
 # A vehicle detection model
-This is a submission to Unleash Live for skill assessment. Please refer to **'output video.mp4'** for results and read the **"vehicle_detection_report.pdf"** for the model algorithm and discussions on the selected model.
+This is a submission to Unleash Live for skill assessment. Please refer to **'output video.mp4'** for results and read **"vehicle_detection_report.pdf"** for the model algorithm and discussions on the selected model.
 
 ## Required packages
 - opencv-python (4.5.5 tested)
